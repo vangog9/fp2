@@ -16,33 +16,26 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="fp2">
+    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="Included Bootstrap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <phar pharPath="C:\PHP\OpenServer\userdata\composer\composer.phar" />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -52,6 +45,13 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1iuxzRz87bl9Myk23MeStTi1vbt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,7 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,10 +78,17 @@
       <workItem from="1602771541610" duration="34000" />
       <workItem from="1602772425122" duration="1770000" />
       <workItem from="1602786873831" duration="2090000" />
-      <workItem from="1602790752952" duration="581000" />
-      <workItem from="1603030600724" duration="5062000" />
-      <workItem from="1603087844192" duration="1347000" />
+      <workItem from="1602790752952" duration="976000" />
+      <workItem from="1603396290522" duration="1740000" />
     </task>
+    <task id="LOCAL-00001" summary="Included Bootstrap">
+      <created>1602796705436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602796705436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,29 +99,33 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Included Bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Included Bootstrap" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="678" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603030803748">
-      <screen x="0" y="0" width="1703" height="880" />
+    <state x="282" y="12" key="#CLI_Interpreters" timestamp="1603397276043">
+      <screen x="0" y="0" width="1398" height="706" />
     </state>
-    <state x="678" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1703.880@0.0.1703.880" timestamp="1603030803748" />
+    <state x="282" y="12" key="#CLI_Interpreters/0.0.1398.706@0.0.1398.706" timestamp="1603397276043" />
+    <state x="482" y="100" key="FileChooserDialogImpl" timestamp="1603397512682">
+      <screen x="0" y="0" width="1398" height="706" />
+    </state>
+    <state x="482" y="100" key="FileChooserDialogImpl/0.0.1398.706@0.0.1398.706" timestamp="1603397512682" />
+    <state x="226" y="0" key="SettingsEditor" timestamp="1603400082903">
+      <screen x="0" y="0" width="1398" height="706" />
+    </state>
+    <state x="226" y="0" key="SettingsEditor/0.0.1398.706@0.0.1398.706" timestamp="1603400082903" />
+    <state x="396" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602796721889">
+      <screen x="0" y="0" width="1600" height="856" />
+    </state>
+    <state x="396" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.856@0.0.1600.856" timestamp="1602796721889" />
   </component>
 </project>
