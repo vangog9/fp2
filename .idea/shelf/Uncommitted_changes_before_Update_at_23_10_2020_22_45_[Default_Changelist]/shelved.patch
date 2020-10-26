@@ -1,0 +1,258 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59_[Default_Changelist]/shelved.patch
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59_[Default_Changelist]/shelved.patch	(revision a29f5ff66a24e9ece3f3d3cef5a5c85e7aa24da4)
++++ .idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59_[Default_Changelist]/shelved.patch	(revision a29f5ff66a24e9ece3f3d3cef5a5c85e7aa24da4)
+@@ -1,60 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"37b97f4e-bcd3-4b45-88e2-873c88dda74a\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"2\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1iuxzRz87bl9Myk23MeStTi1vbt\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"37b97f4e-bcd3-4b45-88e2-873c88dda74a\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1602771540419</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602771540419</updated>\r\n      <workItem from=\"1602771541610\" duration=\"34000\" />\r\n      <workItem from=\"1602772425122\" duration=\"1770000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+---- .idea/workspace.xml	(revision 5b95a1fb23954990563eee7191a4d1de2fb12de2)
+-+++ .idea/workspace.xml	(date 1602784318106)
+-@@ -1,7 +1,9 @@
+- <?xml version="1.0" encoding="UTF-8"?>
+- <project version="4">
+-   <component name="ChangeListManager">
+--    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="" />
+-+    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="fp2">
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -45,11 +47,37 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1602771540419</updated>
+-       <workItem from="1602771541610" duration="34000" />
+--      <workItem from="1602772425122" duration="1770000" />
+-+      <workItem from="1602772425122" duration="2151000" />
+-+    </task>
+-+    <task id="LOCAL-00001" summary="fp2">
+-+      <created>1602783996365</created>
+-+      <option name="number" value="00001" />
+-+      <option name="presentableId" value="LOCAL-00001" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1602783996365</updated>
+-     </task>
+-+    <option name="localTasksCounter" value="2" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-     <option name="version" value="3" />
+-   </component>
+-+  <component name="VcsManagerConfiguration">
+-+    <MESSAGE value="fp2" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="fp2" />
+-+  </component>
+-+  <component name="WindowStateProjectService">
+-+    <state x="744" y="265" key="FileChooserDialogImpl" timestamp="1602783917278">
+-+      <screen x="0" y="0" width="1920" height="1036" />
+-+    </state>
+-+    <state x="744" y="265" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1602783917278" />
+-+    <state x="556" y="255" key="Vcs.Push.Dialog.v2" timestamp="1602784276466">
+-+      <screen x="0" y="0" width="1920" height="1036" />
+-+    </state>
+-+    <state x="556" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1602784276466" />
+-+    <state x="765" y="429" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602784063566">
+-+      <screen x="0" y="0" width="1920" height="1036" />
+-+    </state>
+-+    <state x="765" y="429" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1602784063566" />
+-+  </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59__Default_Changelist_.xml
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59__Default_Changelist_.xml	(revision a29f5ff66a24e9ece3f3d3cef5a5c85e7aa24da4)
++++ .idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59__Default_Changelist_.xml	(revision a29f5ff66a24e9ece3f3d3cef5a5c85e7aa24da4)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_16_10_2020_11_59_[Default_Changelist]" date="1602838826369" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59_[Default_Changelist]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 16.10.2020 11:59 [Default Changelist]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/deployment.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/deployment.xml	(date 1603402308240)
++++ .idea/deployment.xml	(date 1603402308240)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="PublishConfigData" serverName="test-server" remoteFilesAllowedToDisappearOnAutoupload="false">
++    <serverData>
++      <paths name="test-server">
++        <serverdata>
++          <mappings>
++            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++    </serverData>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"37b97f4e-bcd3-4b45-88e2-873c88dda74a\" name=\"Default Changelist\" comment=\"Included Bootstrap\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\" synchronizationState=\"SYNCHRONIZE\">\r\n    <execution>\r\n      <phar pharPath=\"C:\\PHP\\OpenServer\\userdata\\composer\\composer.phar\" />\r\n    </execution>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"2\" />\r\n  </component>\r\n  <component name=\"JsFlowSettings\">\r\n    <service-enabled>true</service-enabled>\r\n    <exe-path />\r\n    <other-services-enabled>true</other-services-enabled>\r\n    <auto-save>true</auto-save>\r\n  </component>\r\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP 7.4\" />\r\n  <component name=\"ProjectId\" id=\"1iuxzRz87bl9Myk23MeStTi1vbt\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"Laravel.SettingsForm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"37b97f4e-bcd3-4b45-88e2-873c88dda74a\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1602771540419</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602771540419</updated>\r\n      <workItem from=\"1602771541610\" duration=\"34000\" />\r\n      <workItem from=\"1602772425122\" duration=\"1770000\" />\r\n      <workItem from=\"1602786873831\" duration=\"2090000\" />\r\n      <workItem from=\"1602790752952\" duration=\"976000\" />\r\n      <workItem from=\"1603396290522\" duration=\"1740000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Included Bootstrap\">\r\n      <created>1602796705436</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602796705436</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Included Bootstrap\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Included Bootstrap\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"282\" y=\"12\" key=\"#CLI_Interpreters\" timestamp=\"1603397276043\">\r\n      <screen x=\"0\" y=\"0\" width=\"1398\" height=\"706\" />\r\n    </state>\r\n    <state x=\"282\" y=\"12\" key=\"#CLI_Interpreters/0.0.1398.706@0.0.1398.706\" timestamp=\"1603397276043\" />\r\n    <state x=\"482\" y=\"100\" key=\"FileChooserDialogImpl\" timestamp=\"1603397512682\">\r\n      <screen x=\"0\" y=\"0\" width=\"1398\" height=\"706\" />\r\n    </state>\r\n    <state x=\"482\" y=\"100\" key=\"FileChooserDialogImpl/0.0.1398.706@0.0.1398.706\" timestamp=\"1603397512682\" />\r\n    <state x=\"226\" y=\"0\" key=\"SettingsEditor\" timestamp=\"1603400082903\">\r\n      <screen x=\"0\" y=\"0\" width=\"1398\" height=\"706\" />\r\n    </state>\r\n    <state x=\"226\" y=\"0\" key=\"SettingsEditor/0.0.1398.706@0.0.1398.706\" timestamp=\"1603400082903\" />\r\n    <state x=\"396\" y=\"165\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1602796721889\">\r\n      <screen x=\"0\" y=\"0\" width=\"1600\" height=\"856\" />\r\n    </state>\r\n    <state x=\"396\" y=\"165\" key=\"Vcs.Push.Dialog.v2/0.0.1600.856@0.0.1600.856\" timestamp=\"1602796721889\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a29f5ff66a24e9ece3f3d3cef5a5c85e7aa24da4)
++++ .idea/workspace.xml	(date 1603482324274)
+@@ -19,9 +19,14 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="Included Bootstrap">
++    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="+htaccess">
++      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59_[Default_Changelist]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2020_11_59__Default_Changelist_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
++    <list id="46aa42f7-4946-4037-8f1f-4da7c40fe554" name="Included Bootstrap" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -29,7 +34,7 @@
+   </component>
+   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+     <execution>
+-      <phar pharPath="C:\PHP\OpenServer\userdata\composer\composer.phar" />
++      <phar pharPath="C:\PHP\OpenServer\userdata\composer\composer.phar" interpreterId="42d41508-bed2-4329-b902-c681e943130d" />
+     </execution>
+   </component>
+   <component name="FileTemplateManagerImpl">
+@@ -62,9 +67,15 @@
+     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="WebServerToolWindowFactoryState" value="true" />
++    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
++    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
++    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
++    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
++    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
++    <property name="nodejs_package_manager_path" value="npm" />
++    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -80,6 +91,7 @@
+       <workItem from="1602786873831" duration="2090000" />
+       <workItem from="1602790752952" duration="976000" />
+       <workItem from="1603396290522" duration="1740000" />
++      <workItem from="1603481799086" duration="458000" />
+     </task>
+     <task id="LOCAL-00001" summary="Included Bootstrap">
+       <created>1602796705436</created>
+@@ -88,7 +100,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1602796705436</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="+htaccess">
++      <created>1603400659278</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1603400659278</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -108,24 +127,50 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Included Bootstrap" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Included Bootstrap" />
++    <MESSAGE value="+htaccess" />
++    <option name="LAST_COMMIT_MESSAGE" value="+htaccess" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="282" y="12" key="#CLI_Interpreters" timestamp="1603397276043">
++    <state x="282" y="12" key="#CLI_Interpreters" timestamp="1603401662396">
++      <screen x="0" y="0" width="1398" height="706" />
++    </state>
++    <state x="282" y="12" key="#CLI_Interpreters/0.0.1398.706@0.0.1398.706" timestamp="1603401662396" />
++    <state x="269" y="0" key="#Deployment" timestamp="1603402306808">
++      <screen x="0" y="0" width="1398" height="706" />
++    </state>
++    <state x="269" y="0" key="#Deployment/0.0.1398.706@0.0.1398.706" timestamp="1603402306808" />
++    <state x="403" y="50" key="#Options" timestamp="1603402422093">
+       <screen x="0" y="0" width="1398" height="706" />
+     </state>
+-    <state x="282" y="12" key="#CLI_Interpreters/0.0.1398.706@0.0.1398.706" timestamp="1603397276043" />
+-    <state x="482" y="100" key="FileChooserDialogImpl" timestamp="1603397512682">
++    <state x="403" y="50" key="#Options/0.0.1398.706@0.0.1398.706" timestamp="1603402422093" />
++    <state x="482" y="100" key="FileChooserDialogImpl" timestamp="1603401701586">
+       <screen x="0" y="0" width="1398" height="706" />
+     </state>
+-    <state x="482" y="100" key="FileChooserDialogImpl/0.0.1398.706@0.0.1398.706" timestamp="1603397512682" />
+-    <state x="226" y="0" key="SettingsEditor" timestamp="1603400082903">
++    <state x="482" y="100" key="FileChooserDialogImpl/0.0.1398.706@0.0.1398.706" timestamp="1603401701586" />
++    <state x="344" y="121" key="MultipleFileMergeDialog" timestamp="1603400971158">
+       <screen x="0" y="0" width="1398" height="706" />
+     </state>
+-    <state x="226" y="0" key="SettingsEditor/0.0.1398.706@0.0.1398.706" timestamp="1603400082903" />
+-    <state x="396" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602796721889">
+-      <screen x="0" y="0" width="1600" height="856" />
++    <state x="344" y="121" key="MultipleFileMergeDialog/0.0.1398.706@0.0.1398.706" timestamp="1603400971158" />
++    <state x="226" y="0" key="SettingsEditor" timestamp="1603401704520">
++      <screen x="0" y="0" width="1398" height="706" />
+     </state>
++    <state x="226" y="0" key="SettingsEditor/0.0.1398.706@0.0.1398.706" timestamp="1603401704520" />
++    <state x="554" y="273" key="VCS.ChangelistChooser" timestamp="1603400620455">
++      <screen x="0" y="0" width="1398" height="706" />
++    </state>
++    <state x="554" y="273" key="VCS.ChangelistChooser/0.0.1398.706@0.0.1398.706" timestamp="1603400620455" />
++    <state x="346" y="136" key="Vcs.Push.Dialog.v2" timestamp="1603401014307">
++      <screen x="0" y="0" width="1398" height="706" />
++    </state>
++    <state x="346" y="136" key="Vcs.Push.Dialog.v2/0.0.1398.706@0.0.1398.706" timestamp="1603401014307" />
+     <state x="396" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.856@0.0.1600.856" timestamp="1602796721889" />
++    <state x="525" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603401001251">
++      <screen x="0" y="0" width="1398" height="706" />
++    </state>
++    <state x="525" y="272" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1398.706@0.0.1398.706" timestamp="1603401001251" />
++    <state x="602" y="88" key="ftp.server.browser" timestamp="1603402303219">
++      <screen x="0" y="0" width="1398" height="706" />
++    </state>
++    <state x="602" y="88" key="ftp.server.browser/0.0.1398.706@0.0.1398.706" timestamp="1603402303219" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/webServers.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/webServers.xml	(date 1603402133551)
++++ .idea/webServers.xml	(date 1603402133551)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="WebServers">
++    <option name="servers">
++      <webServer id="dc41123c-2700-4807-9ee6-7cc6d0766502" name="test-server" url="http://ftp.byethost7.com">
++        <fileTransfer rootFolder="/htdocs" host="ftp.byethost7.com" port="21">
++          <advancedOptions>
++            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
++          </advancedOptions>
++        </fileTransfer>
++      </webServer>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
