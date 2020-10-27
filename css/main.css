@@ -1,10 +1,21 @@
-.justify-content-md-center {
-    background: #dee2e6;
-
-}
 
 .nav-link {
     background: #fff3cd;
     color: #000000;
+}
+
+.form-inline {
+    justify-content: flex-end;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    color: green;
+
+
+}
+
+.nav {
+    background: #d39e00;
 
 }
