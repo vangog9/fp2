@@ -1,9 +1,10 @@
+.justify-content-md-center {
+    background: #dee2e6;
 
+}
 
-.justify-content-center {
-    color: #9fcdff;
-    background: #721c24 ;
-
-
+.nav-link {
+    background: #fff3cd;
+    color: #000000;
 
 }
