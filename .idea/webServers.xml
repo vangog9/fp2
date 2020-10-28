@@ -5,7 +5,7 @@
       <webServer id="dc41123c-2700-4807-9ee6-7cc6d0766502" name="test-server" url="http://ftp.byethost7.com">
         <fileTransfer rootFolder="/htdocs" host="ftp.byethost7.com" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="NEVER" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
