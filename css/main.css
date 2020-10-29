@@ -1,8 +1,8 @@
-body {
-    background-color: #95999c;
+#body {
+    background-color: #ffc107;
 }
 
-.top-link{
+.top-link {
     color: #1e7e34;
 }
 
@@ -18,31 +18,17 @@ body {
 
 #siteNavigation {
     background: #fff3cd;
-    /*position: sticky;*/
 }
 
-.nav-link {
+a.nav-link {
     color: #000000;
 }
 
-
-/*.nav-item {*/
-/*    border-width: 10px;*/
-/*    border-color: #000000;*/
-/*}*/
-
 #LoginRegister {
     font-size: 20px;
-    /*color: #343a40;*/
     color: #fff3cd;
-   text-align: right;
+    text-align: right;
     justify-content: end;
     padding-right: 25px;
 }
-
-.justify-content-md-center {
-    /*position: fixed;*/
-    /*display: block;*/
-}
-
 
