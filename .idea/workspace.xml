@@ -26,15 +26,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="fp2-7">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_22_45__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_22_45__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_9_40__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_9_40__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_12_18__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_12_18__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_10_2020_20_49__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_10_2020_20_49__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_10_2020_21_28__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_10_2020_21_28__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="fp2-10">
+      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_22_45_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_22_45__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_9_40_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_10_2020_9_40__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="46aa42f7-4946-4037-8f1f-4da7c40fe554" name="Included Bootstrap" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +111,7 @@
       <workItem from="1603886428006" duration="3839000" />
       <workItem from="1603910132682" duration="1289000" />
       <workItem from="1603915286688" duration="4633000" />
+      <workItem from="1604242983244" duration="2008000" />
     </task>
     <task id="LOCAL-00001" summary="Included Bootstrap">
       <created>1602796705436</created>
@@ -119,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602796705436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fp2-10">
+      <created>1603994215994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603994215994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +144,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -151,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Included Bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Included Bootstrap" />
+    <MESSAGE value="fp2-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="fp2-10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="15" key="#CLI_Interpreters" timestamp="1603791466657">
@@ -179,10 +188,11 @@
     <state x="226" y="0" key="SettingsEditor/0.0.1398.706@0.0.1398.706" timestamp="1603400082903" />
     <state x="171" y="34" width="1353" height="727" key="SettingsEditor/0.0.1703.880@0.0.1703.880" timestamp="1603791481884" />
     <state x="193" y="40" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1603791636752" />
-    <state x="396" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602796721889">
-      <screen x="0" y="0" width="1600" height="856" />
+    <state x="422" y="170" key="Vcs.Push.Dialog.v2" timestamp="1603994257162">
+      <screen x="0" y="0" width="1707" height="884" />
     </state>
     <state x="396" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.856@0.0.1600.856" timestamp="1602796721889" />
+    <state x="422" y="170" key="Vcs.Push.Dialog.v2/0.0.1707.884@0.0.1707.884" timestamp="1603994257162" />
     <state x="697" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603864455468">
       <screen x="0" y="0" width="1703" height="880" />
     </state>

@@ -1,15 +1,18 @@
-#body {
+#supreme {
     background-color: #ffc107;
 }
 
 .top-link {
-    color: #1e7e34;
+    color: #fff3cd;
+    margin-right: 30px;
 }
 
 #siteLogo {
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
 }
+
+h4 {background-color: #721c24}
 
 #siteTitle {
     font-size: 40px;
