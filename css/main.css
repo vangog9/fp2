@@ -1,5 +1,5 @@
 #supreme {
-    background-color: #ffc107;
+    background-color: #3498db;
 }
 
 .top-link {
@@ -27,6 +27,8 @@ a.nav-link {
     color: #000000;
 }
 
+
+
 #LoginRegister {
     font-size: 20px;
     color: #fff3cd;
@@ -35,3 +37,7 @@ a.nav-link {
     padding-right: 25px;
 }
 
+h5 {
+    background-color: #778beb;
+
+}
