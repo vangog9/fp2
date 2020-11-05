@@ -4,7 +4,6 @@
 
 .top-link {
     color: #fff3cd;
-    margin-right: 30px;
 }
 
 #siteLogo {
@@ -12,7 +11,9 @@
     height: 70px;
 }
 
-h4 {background-color: #721c24}
+h4 {
+    background-color: #721c24
+}
 
 #siteTitle {
     font-size: 40px;
@@ -27,15 +28,29 @@ a.nav-link {
     color: #000000;
 }
 
+/*#Naviga {*/
+/*       padding-bottom: 3px;*/
+/*}*/
 
 
-#LoginRegister {
+/*#LoginRegister {*/
+/*    font-size: 20px;*/
+/*    color: #fff3cd;*/
+/*    text-align: right;*/
+/*    justify-content: end;*/
+/*    word-spacing: 20px;*/
+/*}*/
+
+#UserBar {
     font-size: 20px;
     color: #fff3cd;
     text-align: right;
-    justify-content: end;
-    padding-right: 25px;
+    word-spacing: 20px;
+    padding-bottom: 3px;
+
+
 }
+
 
 h5 {
     background-color: #778beb;
