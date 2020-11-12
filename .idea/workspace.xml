@@ -19,19 +19,19 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="fp2-13">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_11_2020_22_53__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_11_2020_22_53__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_11_2020_0_28_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_11_2020_0_28__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_11_2020_11_54_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_11_2020_11_54__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
     </list>
     <list id="46aa42f7-4946-4037-8f1f-4da7c40fe554" name="Included Bootstrap" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -90,6 +90,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Laravel-tester\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="37b97f4e-bcd3-4b45-88e2-873c88dda74a" name="Default Changelist" comment="" />
@@ -115,6 +118,8 @@
       <workItem from="1603915286688" duration="4633000" />
       <workItem from="1604242983244" duration="2008000" />
       <workItem from="1604605824434" duration="4287000" />
+      <workItem from="1605188576812" duration="2473000" />
+      <workItem from="1605192281398" duration="529000" />
     </task>
     <task id="LOCAL-00001" summary="Included Bootstrap">
       <created>1602796705436</created>
@@ -185,22 +190,24 @@
       <screen x="0" y="0" width="1398" height="706" />
     </state>
     <state x="482" y="100" key="FileChooserDialogImpl/0.0.1398.706@0.0.1398.706" timestamp="1603397512682" />
-    <state x="193" y="40" width="1353" height="727" key="SettingsEditor" timestamp="1603791636752">
-      <screen x="0" y="0" width="1920" height="1036" />
+    <state x="172" y="34" width="1203" height="727" key="SettingsEditor" timestamp="1605192493692">
+      <screen x="0" y="0" width="1707" height="884" />
     </state>
     <state x="226" y="0" key="SettingsEditor/0.0.1398.706@0.0.1398.706" timestamp="1603400082903" />
     <state x="171" y="34" width="1353" height="727" key="SettingsEditor/0.0.1703.880@0.0.1703.880" timestamp="1603791481884" />
+    <state x="172" y="34" width="1203" height="727" key="SettingsEditor/0.0.1707.884@0.0.1707.884" timestamp="1605192493692" />
     <state x="193" y="40" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1603791636752" />
     <state x="422" y="170" key="Vcs.Push.Dialog.v2" timestamp="1603994257162">
       <screen x="0" y="0" width="1707" height="884" />
     </state>
     <state x="396" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.856@0.0.1600.856" timestamp="1602796721889" />
     <state x="422" y="170" key="Vcs.Push.Dialog.v2/0.0.1707.884@0.0.1707.884" timestamp="1603994257162" />
-    <state x="655" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604605987988">
-      <screen x="0" y="0" width="1600" height="856" />
+    <state x="699" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605192499414">
+      <screen x="0" y="0" width="1707" height="884" />
     </state>
     <state x="655" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.856@0.0.1600.856" timestamp="1604605987988" />
     <state x="697" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1703.880@0.0.1703.880" timestamp="1603864455468" />
+    <state x="699" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.884@0.0.1707.884" timestamp="1605192499414" />
     <state x="786" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1036@0.0.1920.1036" timestamp="1603791599275" />
     <state x="559" y="213" key="ftp.server.browser" timestamp="1603704168483">
       <screen x="0" y="0" width="1703" height="880" />
